@@ -8,12 +8,12 @@ On Windows the xml file to target is found at:
 You can use Kimmo Kulovesi's website to get custom matrix values. 
 https://arkku.com/elite/hud_editor/
 
-My values:
+My values:\
 R:  1, 0, 0.29\
 G:  0, 1, 0\
 B: 0, 0, 0.51
 
-The default values:
-R:  1, 0, 0
-G:  0, 1, 0
+The default values:\
+R:  1, 0, 0\
+G:  0, 1, 0\
 B:  0, 0, 1
